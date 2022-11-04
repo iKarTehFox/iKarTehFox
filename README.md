@@ -1,5 +1,3 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="825e1506-5c37-4e70-94eb-04954a9201e3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 Heyo, I'm iKarTehFox!
 I live in the United States and I don't like it here :)
 
