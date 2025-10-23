@@ -1,18 +1,11 @@
-Hey, I'm iKarTehFox 👋
+Hiya, I'm iKarTehFox... or iKTF... or Karaoke, whatever you remember me as. 🤷‍♂️
 
-I work with js, ts, html, and css, all the good web stuff.  
-JavaScript is the best programming language. fight me.
+A couple of the projects I am proud of on here are:
+- [Online Web Clock](https://github.com/iKarTehFox/web-clock) - My own little online clock app thing, which has been in development for a little over two years now
+- [Color Toy](https://github.com/iKarTehFox/color-toy) - A website which lets you test out text/background color contrast, or just display a solid color fullscreen
+- [Qrank](https://github.com/iKarTehFox/qrank) - A custom QR code generator which sends curious people to a site with your custom message (like.. for "pranks" ig)
 
-### My projects
-- [web-clock](https://github.com/iKarTehFox/web-clock) is my favorite thing I’ve made. 2 years and counting.
-- [qrank](https://github.com/iKarTehFox/qrank) is a qr code generator for jokes and pranks I guess
-- [color-toy](https://github.com/iKarTehFox/color-toy) is a tool which lets you view a single color in fullscreen.
-- I listen to music a lot. sometimes I sing along (badly)
-- take the occasional photo here and there too
-
-bluesky: [@ikartehfox.bsky.social](https://bsky.app/profile/ikartehfox.bsky.social)
-
-that's it :)
+Thanks for taking interest into my GitHub profile. I'd you'd like to talk, you know where to find my portfolio. I need friends :(
 
 <!---
 iKarTehFox/iKarTehFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
