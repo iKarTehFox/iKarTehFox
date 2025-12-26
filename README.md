@@ -5,7 +5,7 @@ A couple of the projects I am proud of on here are:
 - [Color Toy](https://github.com/iKarTehFox/color-toy) - A website which lets you test out text/background color contrast, or just display a solid color fullscreen
 - [QRank](https://github.com/iKarTehFox/qrank) - A custom QR code generator which sends curious people to a site with your custom message (like.. for "pranks" ig)
 
-Thanks for taking interest into my GitHub profile. If you'd like to talk, you know where to find my portfolio. I need friends :(
+Thanks for taking interest into my GitHub profile. If you'd like to talk, you know where to find my website. I need friends :(
 
 <!---
 iKarTehFox/iKarTehFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
